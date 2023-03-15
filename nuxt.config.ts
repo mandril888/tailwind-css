@@ -6,4 +6,7 @@ export default defineNuxtConfig({
           autoprefixer: {},
         },
     },
+    css: [
+      '@/assets/css/main.css',
+    ]
 })
