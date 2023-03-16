@@ -11,5 +11,6 @@
       <span class="text-highlight-600">third </span>
       <span class="text-highlight-900">fourth</span>
     </p>
+    <h2 class="text-sm lg:text-xl 3xl:text-2xl">My new title</h2>
   </div>
 </template>

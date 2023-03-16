@@ -21,7 +21,11 @@ module.exports = {
           600: '#4385ff',
           900: '#0b60ff',
         }
-      }
+      },
+      screens: {
+        'lg': '992px',    // override lg class
+        '3xl': '1600px',  // create new class
+      },
     },
   },
   plugins: [],
