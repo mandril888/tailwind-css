@@ -1,5 +1,8 @@
 <template>
-  <h1 class="text-3xl font-bold underline">
+  <h1 class="bg-teal-100 text-xl text-teal-900 font-bold border-2 border-teal-800 text-center p-5 ">
     Hello world!
   </h1>
+  <div class="p-2">
+    <p class="text-sky-900">Nulla facilisi. Maecenas et accumsan tortor. In aliquam purus mauris, vel semper nisl imperdiet sed. Integer ullamcorper dignissim varius. Nullam ante mauris, pulvinar sit amet mattis vitae, rutrum eget justo. Morbi tincidunt, felis eget feugiat molestie, eros lorem tincidunt ex, in placerat nisi lectus sed odio. Proin vel laoreet nulla, a finibus arcu. Donec at tincidunt lorem.</p>
+  </div>
 </template>
