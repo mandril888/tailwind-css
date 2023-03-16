@@ -12,5 +12,7 @@
       <span class="text-highlight-900">fourth</span>
     </p>
     <h2 class="text-sm lg:text-xl 3xl:text-2xl mt-13">My new title</h2>
+    <p class="text-[#777]">Nulla facilisi. Maecenas et accumsan tortor. In aliquam purus mauris, vel semper nisl imperdiet sed. Integer ullamcorper dignissim varius. Nullam ante mauris, pulvinar sit amet mattis vitae, rutrum eget justo. Morbi tincidunt, felis eget feugiat molestie, eros lorem tincidunt ex, in placerat nisi lectus sed odio. Proin vel laoreet nulla, a finibus arcu. Donec at tincidunt lorem.</p>
+    <p class="bg-[#bada55]">Aliquam hendrerit tincidunt ex, eget porta nisl efficitur eget. Nulla in magna sit amet nibh molestie vestibulum. Pellentesque et neque nibh. Proin suscipit feugiat neque, in sodales odio mattis non. Nunc quis orci lobortis, ornare tortor vel, tincidunt felis. Duis eget iaculis tortor, sed dapibus nunc. Sed sagittis tellus nec augue elementum egestas. Curabitur eget dapibus diam.</p>
   </div>
 </template>
