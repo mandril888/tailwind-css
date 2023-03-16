@@ -9,7 +9,20 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
-    extend: {},
+    // colors: {
+    //   here we override the default colors
+    // },
+    extend: {
+      colors: {
+        vuejs: '#42b883',
+        highlight: {
+          100: '#dae7ff',
+          300: '#82aeff',
+          600: '#4385ff',
+          900: '#0b60ff',
+        }
+      }
+    },
   },
   plugins: [],
 }
