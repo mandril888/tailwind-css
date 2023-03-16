@@ -26,6 +26,13 @@ module.exports = {
         'lg': '992px',    // override lg class
         '3xl': '1600px',  // create new class
       },
+      spacing: {
+        '13': '3.25rem',
+        '15': '3.75rem',
+        '128': '32rem',
+        '144': '36rem',
+      }
+
     },
   },
   plugins: [],
