@@ -4,5 +4,5 @@
     <h3>Title 3</h3>
     <p class="text-base">Regular paragraph</p>
     <p>Description paragraph</p>
-    <p class="note text-xs">Little note paragraph</p>
+    <p class="note text-xs">Little note <span>paragraph</span></p>
 </template>
